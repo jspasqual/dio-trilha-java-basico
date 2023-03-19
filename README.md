@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-repositorio criado para subir o conteudo do Desafio Banco Terminal - 2
+repositorio criado para subir o conteudo do curso de java básico da dio
